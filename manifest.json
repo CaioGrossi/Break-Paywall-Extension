@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Break PayWall Extension",
+    "description": "This extension will make use of 12ft Ladder to redirect to pages without paywalls",
+    "version": "1.0",
+
+    "browser_action": {
+     "default_icon": "icon.png",
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "tabs"
+     ]
+  }

@@ -1,0 +1,18 @@
+main {
+    width: 180px
+}
+
+
+main > h1 {
+    font-size: 20px;
+}
+
+#redirect_button {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+}
